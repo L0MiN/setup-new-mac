@@ -1,0 +1,24 @@
+zstyle ':prezto:load' pmodule \
+  'environment' \
+  'terminal' \
+  'editor' \
+  'history' \
+  'directory' \
+  'spectrum' \
+  'utility' \
+  'ssh' \
+  'completion' \
+  'homebrew' \
+  'osx' \
+  'ruby' \
+  'rails' \
+  'git' \
+  'syntax-highlighting' \
+  'history-substring-search' \
+  'prompt' \
+  'zsh-syntax-highlighting' \
+  'conda-zsh-completion'
+
+zstyle ':prezto:module:prompt' theme 'sorin'
+zstyle ':prezto:module:git:status:ignore' submodules 'all'
+zstyle ':prezto:module:git:info:context:subcontext' format 'string'%

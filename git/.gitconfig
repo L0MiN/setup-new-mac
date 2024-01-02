@@ -1,0 +1,9 @@
+[user]
+	name = Dennis Braun
+	email =  <corporate email address here>
+
+[includeIf "gitdir:~/projects/private/"]
+  path = ~/.gitconfig_private
+
+[init]
+	defaultBranch = main
