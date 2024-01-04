@@ -42,7 +42,9 @@ Install all of the following applications:
 - AltTab
 - Bitwarden
 - Chrome
+- Discord
 - Disk Graph
+- Docker
 - Figma
 - IntelliJ IDEA
 - iStat Menus
